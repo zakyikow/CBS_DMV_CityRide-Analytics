@@ -1,0 +1,6 @@
+# Exclude notebooks from language statistics
+*.ipynb linguist-documentation
+
+# Ensure R code is properly detected
+*.R linguist-detectable=true
+*.Rmd linguist-detectable=true
