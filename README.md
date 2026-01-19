@@ -135,7 +135,3 @@ The Tableau workbook follows Shneiderman's "overview first, zoom and filter, det
 [Live Tableau Dashboard](https://public.tableau.com/app/profile/david.cod/viz/FinalProject_Tableau_Group30/RevenueRides)
 
 <br>
-
----
-
-*For detailed methodology, complete findings, and technical documentation, see [CityRide_FinalPaper.pdf](5_PDF_Report/CityRide_FinalPaper.pdf)*
