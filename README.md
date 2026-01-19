@@ -133,5 +133,3 @@ The Tableau workbook follows Shneiderman's "overview first, zoom and filter, det
 ## 📊 View the Interactive Dashboard
 
 [Live Tableau Dashboard](https://public.tableau.com/app/profile/david.cod/viz/FinalProject_Tableau_Group30/RevenueRides)
-
-<br>
